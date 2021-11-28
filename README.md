@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Loopstudios landing page](https://your-live-site-url.com)
+- Live Site URL: [Loopstudios landing page](https://tomwf.github.io/FEM-loopstudios-landing-page-main/)
 
 ## My process
 
